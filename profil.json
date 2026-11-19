@@ -2,7 +2,7 @@
   "jmeno": "Anna Nováková",
   "vek": 17,
   "je_plnolety": false,
-  "poznamka": null,
+  "poznamka": "Rád sportuji",
   "adresa": {
     "mesto": "Praha",
     "ulice": "Květinová 12"
@@ -12,4 +12,5 @@
     "čtení knih",
     "fotografování"
   ]
+  "oblibene_cislo": 7
 }
